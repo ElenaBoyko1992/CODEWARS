@@ -7,3 +7,5 @@ class Kata {
         return length * width * height;
     }
 }
+
+//test comment
