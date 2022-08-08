@@ -8,4 +8,3 @@ class Kata {
     }
 }
 
-//test comment
