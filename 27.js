@@ -7,3 +7,4 @@ class Kata {
         return length * width * height;
     }
 }
+
